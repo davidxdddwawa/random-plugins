@@ -1,5 +1,0 @@
-{
-  "name": "gptlocal",
-  "author": "GDT, Nomic",
-  "description": "Use DeepSeek R1 1.5B LOCAL to generate messages based on history and a prompt. (Original code: edde746 shelter plugins gpt)"
-}
